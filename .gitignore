@@ -3,3 +3,8 @@
 
 # Ignore all the temporary files
 *.tmp
+
+# Ignore all the MS Word files
+*.doc
+*.docx
+
